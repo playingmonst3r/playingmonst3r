@@ -20,7 +20,7 @@
 ### 🧑‍💻 **About Me**  
 -  Currently studying
 -  Aspiring developer & cybersecurity learner    
-- builidng projects and improving skills
+- building projects and improving skills
 - Exploring linux,networking and security tools
 
 ![](https://komarev.com/ghpvc/?username=playingmonst3r&color=blue)
